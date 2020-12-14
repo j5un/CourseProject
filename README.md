@@ -1,9 +1,10 @@
-# CourseProject
+# CS410 Text Information Systems Course Project
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+### Author information:
+- **Name**: Junzhe Sun
+- **Team**: Individual 
+- **NetID**: junzhes2
 
-Name: Junzhe Sun
-
-Team: Individual
-
-NetID: junzhes2
+### Content:
+- ./Documentation.pdf: software documentation
+- ./notebooks: Jupyter notebooks for Twitter Sarcasm Detection
