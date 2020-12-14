@@ -12,5 +12,5 @@
 - ./Proposal.pdf: project proposal
 - ./ProgressReport: project progress report
 
-### Resources:
+### Tutorial:
 [Link to software tutorial](https://uofi.box.com/s/wedyjqpel0rw2uxprax10mh2rnwxhu7t)
