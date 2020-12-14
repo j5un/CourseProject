@@ -8,3 +8,5 @@
 ### Content:
 - ./Documentation.pdf: software documentation
 - ./notebooks: Jupyter notebooks for Twitter Sarcasm Detection
+- ./Proposal.pdf: project proposal
+- ./ProgressReport: project progress report
